@@ -46,7 +46,7 @@ const Navbar = () => {
           >
             <ul className="app__navbar-links">
               <li>
-                <Link to="" className="links-wrapp">
+                <Link to="/" className="links-wrapp">
                   Home
                 </Link>
                 <LinkComponent links={home} />
